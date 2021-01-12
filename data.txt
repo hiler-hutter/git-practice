@@ -1,1 +1,3 @@
-Es es un mensaje de prueba
+Name: Jose
+Age: 25
+Favorite color: yellow
